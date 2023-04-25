@@ -10,8 +10,11 @@ Rear: Pointer element responsible for fetching the last element from the queue
 
 # Applications of Queue Data Structure
 • CPU Scheduling
+
 • Disk Scheduling
+
 • Asynchronous data transfer between processors such as File IO, etc.
+
 • Breadth-First Search Algorithm (BFS)
 
 # Algorithm
